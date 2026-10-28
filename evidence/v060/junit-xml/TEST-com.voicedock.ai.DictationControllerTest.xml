@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.voicedock.ai.DictationControllerTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-10-28T03:45:42" hostname="e2b.local" time="0.281">
+  <properties/>
+  <testcase name="onDeviceSettingRequestsOfflineOnly" classname="com.voicedock.ai.DictationControllerTest" time="0.173"/>
+  <testcase name="networkErrorsBackOffAndInterruptWithTextKept" classname="com.voicedock.ai.DictationControllerTest" time="0.026"/>
+  <testcase name="dictatePauseCoughResumeFinish_noTextLost" classname="com.voicedock.ai.DictationControllerTest" time="0.052"/>
+  <testcase name="unfinishedDraftIsRestoredPausedAfterRestart" classname="com.voicedock.ai.DictationControllerTest" time="0.01"/>
+  <testcase name="longSilenceTurnsMicOffButKeepsDraft" classname="com.voicedock.ai.DictationControllerTest" time="0.007"/>
+  <testcase name="clearSavesSnapshotAndCancelKeepsHistory" classname="com.voicedock.ai.DictationControllerTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

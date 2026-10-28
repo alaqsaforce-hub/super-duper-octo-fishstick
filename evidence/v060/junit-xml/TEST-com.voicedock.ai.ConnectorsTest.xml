@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.voicedock.ai.ConnectorsTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-10-28T03:45:40" hostname="e2b.local" time="0.462">
+  <properties/>
+  <testcase name="gmail_parsesHeadersAndPlainBody_onlyGets" classname="com.voicedock.ai.ConnectorsTest" time="0.336"/>
+  <testcase name="drive_exportsGoogleDocAsText" classname="com.voicedock.ai.ConnectorsTest" time="0.009"/>
+  <testcase name="github_listsTextFiles_mdFirst_andReadsRaw" classname="com.voicedock.ai.ConnectorsTest" time="0.062"/>
+  <testcase name="mailText_prefersPlain_ignoresAttachments" classname="com.voicedock.ai.ConnectorsTest" time="0.053"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

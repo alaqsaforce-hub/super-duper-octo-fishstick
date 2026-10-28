@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.voicedock.ai.DictationSessionTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2026-10-28T03:45:43" hostname="e2b.local" time="0.08">
+  <properties/>
+  <testcase name="rapidFailureLoopIsStopped" classname="com.voicedock.ai.DictationSessionTest" time="0.042"/>
+  <testcase name="silenceDuringDictationRestartsAndKeepsText" classname="com.voicedock.ai.DictationSessionTest" time="0.026"/>
+  <testcase name="longInactivityGoesToWaitingAndKeepsText" classname="com.voicedock.ai.DictationSessionTest" time="0.001"/>
+  <testcase name="cancelKeepsTextAndPersists" classname="com.voicedock.ai.DictationSessionTest" time="0.0"/>
+  <testcase name="restoreNeverAutoListens" classname="com.voicedock.ai.DictationSessionTest" time="0.001"/>
+  <testcase name="transientErrorsBackOffThenInterrupt" classname="com.voicedock.ai.DictationSessionTest" time="0.004"/>
+  <testcase name="partialIsKeptWhenEngineEndsWithoutFinal" classname="com.voicedock.ai.DictationSessionTest" time="0.001"/>
+  <testcase name="clearSnapshotsFirst" classname="com.voicedock.ai.DictationSessionTest" time="0.001"/>
+  <testcase name="pauseResumeFinishFlow" classname="com.voicedock.ai.DictationSessionTest" time="0.001"/>
+  <testcase name="errorsAfterPauseAreIgnored" classname="com.voicedock.ai.DictationSessionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

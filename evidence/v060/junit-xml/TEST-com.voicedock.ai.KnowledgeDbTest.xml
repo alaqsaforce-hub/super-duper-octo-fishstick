@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.voicedock.ai.KnowledgeDbTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-10-28T03:45:52" hostname="e2b.local" time="5.325">
+  <properties/>
+  <testcase name="migration1to2_keepsDrafts_andCreatesKnowledgeTables" classname="com.voicedock.ai.KnowledgeDbTest" time="5.076"/>
+  <testcase name="longDocument_chunked_andFullTextRestored" classname="com.voicedock.ai.KnowledgeDbTest" time="0.095"/>
+  <testcase name="addSearchBengaliAndEnglish_dedupe_delete" classname="com.voicedock.ai.KnowledgeDbTest" time="0.075"/>
+  <testcase name="rag_usesOnlyMatchingSources_andSkipsAiWithoutHits" classname="com.voicedock.ai.KnowledgeDbTest" time="0.078"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

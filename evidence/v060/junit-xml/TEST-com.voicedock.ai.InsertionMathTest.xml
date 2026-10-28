@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.voicedock.ai.InsertionMathTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-10-28T03:45:51" hostname="e2b.local" time="0.034">
+  <properties/>
+  <testcase name="insertInMiddleSpacesBothSides" classname="com.voicedock.ai.InsertionMathTest" time="0.025"/>
+  <testcase name="insertIntoEmpty" classname="com.voicedock.ai.InsertionMathTest" time="0.0"/>
+  <testcase name="outOfRangeSelectionAppends" classname="com.voicedock.ai.InsertionMathTest" time="0.001"/>
+  <testcase name="noSpaceBeforePunctuation" classname="com.voicedock.ai.InsertionMathTest" time="0.002"/>
+  <testcase name="reversedSelectionHandled" classname="com.voicedock.ai.InsertionMathTest" time="0.001"/>
+  <testcase name="insertAtEndAddsSpace" classname="com.voicedock.ai.InsertionMathTest" time="0.0"/>
+  <testcase name="replaceSelection" classname="com.voicedock.ai.InsertionMathTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

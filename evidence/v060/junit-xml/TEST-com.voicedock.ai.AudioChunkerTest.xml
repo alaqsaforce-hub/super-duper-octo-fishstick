@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.voicedock.ai.AudioChunkerTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-10-28T03:45:38" hostname="e2b.local" time="0.071">
+  <properties/>
+  <testcase name="flushReturnsPendingSpeech" classname="com.voicedock.ai.AudioChunkerTest" time="0.025"/>
+  <testcase name="shortClickIsDropped" classname="com.voicedock.ai.AudioChunkerTest" time="0.002"/>
+  <testcase name="longSpeechIsCutAtMaxLength" classname="com.voicedock.ai.AudioChunkerTest" time="0.022"/>
+  <testcase name="clipEndsAfterPause" classname="com.voicedock.ai.AudioChunkerTest" time="0.01"/>
+  <testcase name="wavHeader" classname="com.voicedock.ai.AudioChunkerTest" time="0.003"/>
+  <testcase name="twoUtterancesTwoClips" classname="com.voicedock.ai.AudioChunkerTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

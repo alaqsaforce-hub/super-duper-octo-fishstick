@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.voicedock.ai.RecognizerOrderTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-10-28T03:46:11" hostname="e2b.local" time="4.9">
+  <properties/>
+  <testcase name="userChoiceFirstAndUnsupportedLast" classname="com.voicedock.ai.RecognizerOrderTest" time="4.797"/>
+  <testcase name="kinds" classname="com.voicedock.ai.RecognizerOrderTest" time="0.053"/>
+  <testcase name="googleBeforeXiaomiDefault" classname="com.voicedock.ai.RecognizerOrderTest" time="0.05"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

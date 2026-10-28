@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.voicedock.ai.TextExtractTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-10-28T03:46:22" hostname="e2b.local" time="0.082">
+  <properties/>
+  <testcase name="xlsx_sharedAndInlineStrings_withSheetNames" classname="com.voicedock.ai.TextExtractTest" time="0.058"/>
+  <testcase name="html_stripsScriptsAndTags_binaryRefused" classname="com.voicedock.ai.TextExtractTest" time="0.003"/>
+  <testcase name="pptx_slidesInOrder" classname="com.voicedock.ai.TextExtractTest" time="0.018"/>
+  <testcase name="docx_paragraphsTabsAndEntities" classname="com.voicedock.ai.TextExtractTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

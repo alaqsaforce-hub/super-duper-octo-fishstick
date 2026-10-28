@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.voicedock.ai.GeminiClientTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-10-28T03:45:43" hostname="e2b.local" time="0.406">
+  <properties/>
+  <testcase name="listModelsKeepsOnlyGenerateContent" classname="com.voicedock.ai.GeminiClientTest" time="0.29"/>
+  <testcase name="cleanTranscriptRemovesNoSpeechMarkers" classname="com.voicedock.ai.GeminiClientTest" time="0.001"/>
+  <testcase name="transcribeSendsAudioAndKeyHeader" classname="com.voicedock.ai.GeminiClientTest" time="0.017"/>
+  <testcase name="blockedPromptIsReported" classname="com.voicedock.ai.GeminiClientTest" time="0.0"/>
+  <testcase name="errorsAreTyped" classname="com.voicedock.ai.GeminiClientTest" time="0.095"/>
+  <testcase name="pickDefaultPrefersStableFlash" classname="com.voicedock.ai.GeminiClientTest" time="0.001"/>
+  <testcase name="screenPromptGuardsAgainstInjection" classname="com.voicedock.ai.GeminiClientTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

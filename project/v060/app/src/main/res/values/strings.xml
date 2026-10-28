@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VoiceDock AI</string>
+    <string name="a11y_label">VoiceDock AI — insert text &amp; explain screen</string>
+    <string name="notification_listener_label">VoiceDock — event capture (optional)</string>
+    <string name="a11y_description">VoiceDock acts only when you ask. Insert: it types your approved draft into the text field that has the cursor (never password fields). Explain screen: it takes ONE screenshot plus the visible text and sends them to the AI provider you set up. Agent task (only after you start one): it reads the screen, and taps, scrolls, types and opens apps step by step to do that task; every step is shown in the bubble, sending/deleting/paying/calling needs your Allow, finance apps are blocked, and the Stop button ends it at once. Since v0.6, tapping the floating assistant bubble performs ONE on-tap read of visible text so it can offer contextual help; this needs a separate consent switch and never runs in the background. Password/OTP/card/finance screens are refused. It never watches the screen continuously, does not record what you type and stores nothing from the probe. You can turn it off at any time.</string>
+    <string name="capture_label">VoiceDock-এ রাখুন</string>
+    <string name="ime_label">VoiceDock কিবোর্ড</string>
+    <string name="ime_subtype_bn">বাংলা (ফোনেটিক)</string>
+    <string name="ime_subtype_en">English</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.voicedock.ai.MainActivitySmokeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-10-28T03:45:59" hostname="e2b.local" time="8.514">
+  <properties/>
+  <testcase name="everyScreenRenders" classname="com.voicedock.ai.MainActivitySmokeTest" time="8.514"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

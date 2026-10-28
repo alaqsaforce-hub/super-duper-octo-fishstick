@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.voicedock.ai.LocalFormatterTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2026-10-28T03:45:58" hostname="e2b.local" time="0.098">
+  <properties/>
+  <testcase name="periodInsideSentenceIsAWord" classname="com.voicedock.ai.LocalFormatterTest" time="0.069"/>
+  <testcase name="bengaliRepetitionUntouched" classname="com.voicedock.ai.LocalFormatterTest" time="0.002"/>
+  <testcase name="englishStutterRemovedButIntentionalKept" classname="com.voicedock.ai.LocalFormatterTest" time="0.002"/>
+  <testcase name="bengaliSentencesGetDari" classname="com.voicedock.ai.LocalFormatterTest" time="0.007"/>
+  <testcase name="continuationWordSuppressesStop" classname="com.voicedock.ai.LocalFormatterTest" time="0.002"/>
+  <testcase name="spokenCommandsBn" classname="com.voicedock.ai.LocalFormatterTest" time="0.005"/>
+  <testcase name="spokenCommandsEn" classname="com.voicedock.ai.LocalFormatterTest" time="0.001"/>
+  <testcase name="bengaliSubordinateIsNotQuestion" classname="com.voicedock.ai.LocalFormatterTest" time="0.0"/>
+  <testcase name="commaBeforeKintu" classname="com.voicedock.ai.LocalFormatterTest" time="0.001"/>
+  <testcase name="englishCapitalsAndQuestion" classname="com.voicedock.ai.LocalFormatterTest" time="0.002"/>
+  <testcase name="bengaliQuestion" classname="com.voicedock.ai.LocalFormatterTest" time="0.0"/>
+  <testcase name="noWordsInvented" classname="com.voicedock.ai.LocalFormatterTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

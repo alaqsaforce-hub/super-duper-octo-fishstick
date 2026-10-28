@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.voicedock.ai.WhisperTextTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-10-28T03:46:30" hostname="e2b.local" time="0.076">
+  <properties/>
+  <testcase name="passwordFieldsDetected" classname="com.voicedock.ai.WhisperTextTest" time="0.044"/>
+  <testcase name="cleanRemovesNoiseTagsButKeepsRealWords" classname="com.voicedock.ai.WhisperTextTest" time="0.016"/>
+  <testcase name="devanagariOutputBecomesBengali" classname="com.voicedock.ai.WhisperTextTest" time="0.004"/>
+  <testcase name="nativeLibraryAbsentOnJvmIsHandled" classname="com.voicedock.ai.WhisperTextTest" time="0.005"/>
+  <testcase name="modelTableMatchesHuggingFace" classname="com.voicedock.ai.WhisperTextTest" time="0.001"/>
+  <testcase name="urduScriptIsDetectedNotDropped" classname="com.voicedock.ai.WhisperTextTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

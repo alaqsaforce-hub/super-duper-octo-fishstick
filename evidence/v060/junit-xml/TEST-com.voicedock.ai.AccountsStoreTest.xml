@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.voicedock.ai.AccountsStoreTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-10-28T03:45:26" hostname="e2b.local" time="8.217">
+  <properties/>
+  <testcase name="addUpdateRemoveAndHostId" classname="com.voicedock.ai.AccountsStoreTest" time="8.217"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

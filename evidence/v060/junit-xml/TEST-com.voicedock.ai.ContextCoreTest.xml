@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.voicedock.ai.ContextCoreTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2026-10-28T03:45:41" hostname="e2b.local" time="0.088">
+  <properties/>
+  <testcase name="classificationBranches" classname="com.voicedock.ai.ContextCoreTest" time="0.036"/>
+  <testcase name="noConsentIsAGenericAssistant" classname="com.voicedock.ai.ContextCoreTest" time="0.0"/>
+  <testcase name="blockedSnapshotLosesTextButKeepsCounters" classname="com.voicedock.ai.ContextCoreTest" time="0.001"/>
+  <testcase name="incompleteProbeNeverOffersInsertionAndLosesMetadata" classname="com.voicedock.ai.ContextCoreTest" time="0.001"/>
+  <testcase name="fieldOffersInsertSecureDoesNot" classname="com.voicedock.ai.ContextCoreTest" time="0.0"/>
+  <testcase name="secretTextRules" classname="com.voicedock.ai.ContextCoreTest" time="0.001"/>
+  <testcase name="prefsArePrivateByDefault" classname="com.voicedock.ai.ContextCoreTest" time="0.001"/>
+  <testcase name="detectedPasswordTakesPrecedenceEvenIfScanWasIncomplete" classname="com.voicedock.ai.ContextCoreTest" time="0.0"/>
+  <testcase name="consentIsRequired" classname="com.voicedock.ai.ContextCoreTest" time="0.001"/>
+  <testcase name="greetingNeverInventsNumbers" classname="com.voicedock.ai.ContextCoreTest" time="0.02"/>
+  <testcase name="catchUpDedupsAndFiltersWindow" classname="com.voicedock.ai.ContextCoreTest" time="0.004"/>
+  <testcase name="offlineIntentRouter" classname="com.voicedock.ai.ContextCoreTest" time="0.009"/>
+  <testcase name="greetingUsesRealCounts" classname="com.voicedock.ai.ContextCoreTest" time="0.004"/>
+  <testcase name="sensitiveScreensAreNeverRead" classname="com.voicedock.ai.ContextCoreTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

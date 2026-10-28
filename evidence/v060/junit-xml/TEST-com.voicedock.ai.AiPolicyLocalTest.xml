@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.voicedock.ai.AiPolicyLocalTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2026-10-28T03:45:36" hostname="e2b.local" time="0.328">
+  <properties/>
+  <testcase name="privateLanIsLocal" classname="com.voicedock.ai.AiPolicyLocalTest" time="0.035"/>
+  <testcase name="publicHttpIsRefused" classname="com.voicedock.ai.AiPolicyLocalTest" time="0.001"/>
+  <testcase name="localOnlyDoesNotBlockSelfHostedModel" classname="com.voicedock.ai.AiPolicyLocalTest" time="0.002"/>
+  <testcase name="customEndpointDoesNotFollowRedirects" classname="com.voicedock.ai.AiPolicyLocalTest" time="0.287"/>
+  <testcase name="loopbackIsLocal" classname="com.voicedock.ai.AiPolicyLocalTest" time="0.0"/>
+  <testcase name="localOnlyStillBlocksCloud" classname="com.voicedock.ai.AiPolicyLocalTest" time="0.0"/>
+  <testcase name="blankUrlStillReported" classname="com.voicedock.ai.AiPolicyLocalTest" time="0.0"/>
+  <testcase name="spoofedPrivateHostsAndUserInfoAreNotLocal" classname="com.voicedock.ai.AiPolicyLocalTest" time="0.0"/>
+  <testcase name="modelListingObeysPrivacySettings" classname="com.voicedock.ai.AiPolicyLocalTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.voicedock.ai.AiProvidersTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-10-28T03:45:37" hostname="e2b.local" time="0.495">
+  <properties/>
+  <testcase name="router_noCandidates_isNotConfigured" classname="com.voicedock.ai.AiProvidersTest" time="0.058"/>
+  <testcase name="policy_paidOffByDefault_andOpenRouterFreeOnly" classname="com.voicedock.ai.AiProvidersTest" time="0.008"/>
+  <testcase name="pickDefault_usesLiveList_neverInvents" classname="com.voicedock.ai.AiProvidersTest" time="0.004"/>
+  <testcase name="openAiCompat_sendsBearer_parsesAnswer_andSystemFirst" classname="com.voicedock.ai.AiProvidersTest" time="0.225"/>
+  <testcase name="anthropic_headers_andTextBlocks" classname="com.voicedock.ai.AiProvidersTest" time="0.029"/>
+  <testcase name="errors_areTyped" classname="com.voicedock.ai.AiProvidersTest" time="0.109"/>
+  <testcase name="router_fallsBackOnLimit_andReportsAttempts" classname="com.voicedock.ai.AiProvidersTest" time="0.009"/>
+  <testcase name="openAi_omitsTemperature_andListsModels" classname="com.voicedock.ai.AiProvidersTest" time="0.051"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

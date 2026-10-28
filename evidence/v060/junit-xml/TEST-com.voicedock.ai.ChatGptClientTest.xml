@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.voicedock.ai.ChatGptClientTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-10-28T03:45:39" hostname="e2b.local" time="0.421">
+  <properties/>
+  <testcase name="streamFailures" classname="com.voicedock.ai.ChatGptClientTest" time="0.272"/>
+  <testcase name="streamsResponsesApi" classname="com.voicedock.ai.ChatGptClientTest" time="0.144"/>
+  <testcase name="routerSkipsTextOnlyProvidersForImagesAndKeepsAccountLabel" classname="com.voicedock.ai.ChatGptClientTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

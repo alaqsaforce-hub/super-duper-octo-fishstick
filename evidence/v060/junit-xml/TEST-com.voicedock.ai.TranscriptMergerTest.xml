@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.voicedock.ai.TranscriptMergerTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-10-28T03:46:23" hostname="e2b.local" time="0.038">
+  <properties/>
+  <testcase name="duplicateFinalNotAppended" classname="com.voicedock.ai.TranscriptMergerTest" time="0.027"/>
+  <testcase name="finalReplacesProvisionalPartial" classname="com.voicedock.ai.TranscriptMergerTest" time="0.006"/>
+  <testcase name="overlapAtRestartIsDropped" classname="com.voicedock.ai.TranscriptMergerTest" time="0.001"/>
+  <testcase name="singleWordRepeatIsKept" classname="com.voicedock.ai.TranscriptMergerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
