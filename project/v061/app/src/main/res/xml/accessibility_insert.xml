@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- v0.6: still NO background event processing. The screen is read only on an explicit user action:
+     Insert, "Explain screen", an agent task the user started, or ONE probe when the assistant bubble is tapped.
+     Window-state events are declared only so v0.7 can reconcile missed events; onAccessibilityEvent() stays empty. -->
+<accessibility-service xmlns:android="http://schemas.android.com/apk/res/android"
+    android:accessibilityEventTypes="typeViewFocused|typeWindowStateChanged"
+    android:accessibilityFeedbackType="feedbackGeneric"
+    android:accessibilityFlags="flagDefault|flagReportViewIds|flagRetrieveInteractiveWindows|flagIncludeNotImportantViews"
+    android:canRetrieveWindowContent="true"
+    android:canTakeScreenshot="true"
+    android:canPerformGestures="true"
+    android:notificationTimeout="500"
+    android:description="@string/a11y_description" />

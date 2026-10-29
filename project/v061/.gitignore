@@ -1,0 +1,22 @@
+.gradle/
+.kotlin/
+build/
+local.properties
+*.iml
+.idea/
+captures/
+*.apk
+*.keystore
+*.jks
+.build.log
+.compile.log
+.*.log
+!keystore/debug.keystore
+keystore.properties
+signing-lineage.bin
+release-key.*
+crash-reports/
+
+# native build intermediates
+.cxx/
+app/.cxx/
