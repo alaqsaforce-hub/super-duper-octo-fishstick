@@ -29,11 +29,11 @@ android {
 
     defaultConfig {
         applicationId = "com.voicedock.ai"
-        // 26 = Android 8.0: TYPE_APPLICATION_OVERLAY, notification channels, isShowingHintText
-        minSdk = 26
+        // 33 = Android 13 (minimum supported). Devices below Android 13 cannot install.
+        minSdk = 33
         targetSdk = 35
-        versionCode = 8
-        versionName = "0.6.2"
+        versionCode = 9
+        versionName = "0.6.3"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         // Offline Whisper (whisper.cpp) is built for 64-bit ARM only — practically every phone from the last years.
         ndk { abiFilters += listOf("arm64-v8a") }
