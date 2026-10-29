@@ -32,8 +32,8 @@ android {
         // 26 = Android 8.0: TYPE_APPLICATION_OVERLAY, notification channels, isShowingHintText
         minSdk = 26
         targetSdk = 35
-        versionCode = 7
-        versionName = "0.6.1"
+        versionCode = 8
+        versionName = "0.6.2"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         // Offline Whisper (whisper.cpp) is built for 64-bit ARM only — practically every phone from the last years.
         ndk { abiFilters += listOf("arm64-v8a") }

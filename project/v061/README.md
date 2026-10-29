@@ -3,7 +3,11 @@
 Floating voice assistant for Android — continuous Bangla/English dictation with draft recovery, local punctuation,
 AI tidy-up without invented facts, a personal knowledge base, read-only connectors, its own keyboard and a built-in
 offline Whisper, an on-screen **agent** and AI **accounts** (ChatGPT / OpenRouter sign-in). Native Kotlin + Jetpack Compose
-(+ whisper.cpp via JNI). **Current version: 0.6.1** (debug/test build; real-device verification pending).
+(+ whisper.cpp via JNI). **Current version: 0.6.2** (debug/test build; real-device verification pending).
+
+**v0.6.2 upgrade:** Android Gradle Plugin 8.7.3 → 8.9.0 (Gradle wrapper 9.7.1), versionCode 8, plus a LICENSE (MIT),
+CONTRIBUTING.md and GitHub Actions CI (`project/v061/.github/workflows/android.yml`) that runs the JVM/Robolectric
+tests and builds debug + release APKs on every push. Real-device and Play Store release signing remain pending.
 
 ## v0.6 contextual assistant
 - A mic-free floating bubble can perform an on-tap accessibility probe with separate consent, and offers
